@@ -6,4 +6,4 @@
 /misc		emmc		/dev/block/mmcblk0p25
 /recovery	emmc		/dev/block/mmcblk0p13
 /system	        ext4		/dev/block/mmcblk0p27
-/sdcard         vfat   /devices/platform/msm_sdcc.3/mmc_host /devices/platform/msm_sdcc.1/mmc_host
+/sdcard         vfat        /devices/platform/msm_sdcc.3/mmc_host /devices/platform/msm_sdcc.1/mmc_host
